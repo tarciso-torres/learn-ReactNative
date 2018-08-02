@@ -1,3 +1,9 @@
 {
-    "extends": "raillycoding"
+    "extends": "raillycoding",
+    "env": {
+        "browser": true
+    },
+        "globals": {
+            "fetch": true
+        }
 }
